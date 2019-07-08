@@ -1,0 +1,6 @@
+README.md
+setup.py
+encodeguesser.egg-info/PKG-INFO
+encodeguesser.egg-info/SOURCES.txt
+encodeguesser.egg-info/dependency_links.txt
+encodeguesser.egg-info/top_level.txt

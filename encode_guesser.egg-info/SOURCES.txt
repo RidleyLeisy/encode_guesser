@@ -1,0 +1,6 @@
+README.md
+setup.py
+encode_guesser.egg-info/PKG-INFO
+encode_guesser.egg-info/SOURCES.txt
+encode_guesser.egg-info/dependency_links.txt
+encode_guesser.egg-info/top_level.txt
