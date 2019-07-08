@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="encodeguesser",
+    name="encodeguess",
     version="0.0.1",
     author="Ridley Leisy",
     author_email="leisyridley@gmail.com",

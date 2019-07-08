@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: encodeguesser
+Name: encodeguess
 Version: 0.0.1
 Summary: A small package that suggests which columns of your dataframe need to be encoded and in what way
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/RidleyLeisy/encode_guesser
 Author: Ridley Leisy
 Author-email: leisyridley@gmail.com
 License: UNKNOWN

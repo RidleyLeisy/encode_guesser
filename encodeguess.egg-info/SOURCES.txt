@@ -1,0 +1,6 @@
+README.md
+setup.py
+encodeguess.egg-info/PKG-INFO
+encodeguess.egg-info/SOURCES.txt
+encodeguess.egg-info/dependency_links.txt
+encodeguess.egg-info/top_level.txt
