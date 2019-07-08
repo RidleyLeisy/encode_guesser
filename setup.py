@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small package that suggests which columns of your dataframe need to be encoded and in what way",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/RidleyLeisy/encode_guesser",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

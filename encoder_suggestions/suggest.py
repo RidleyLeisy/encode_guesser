@@ -22,7 +22,7 @@ class EncodeGuesser():
             
         else:
             message = f'''Due to the high cardinality of columns: {binary_cols}. We are
-            suggesting you use binary encoding. For the lower cardinality columns: {one_hot_cols}. 
+            suggesting you use binary encoding.python3 setup.py sdist bdist_wheel For the lower cardinality columns: {one_hot_cols}. 
             We suggest using one hot encoding.'''
         
         print(message)
